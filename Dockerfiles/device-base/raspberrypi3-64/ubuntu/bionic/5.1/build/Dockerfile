@@ -37,6 +37,7 @@ RUN install_packages \
     libedit2 \
     libsqlite3-0 \
     libc6-dev \
+    libBluetooth \
     binutils \
     libgcc-5-dev \
     libstdc++-5-dev \
